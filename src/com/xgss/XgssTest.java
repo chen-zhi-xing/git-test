@@ -13,6 +13,7 @@ public class XgssTest {
 	}
 	public void test2(){
 		System.out.println("测试远程分支修改后的分支合并");
+		System.out.println("我再git上修改了");
 		System.out.println("冲突处理完。");
 	}
 }
