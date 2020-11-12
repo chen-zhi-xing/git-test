@@ -11,4 +11,7 @@ public class XgssTest {
 		System.out.println("测试新分支");
 		System.out.println("测试分支合并后修改再合并");
 	}
+	public void test2(){
+		System.out.println("测试远程分支修改后的分支合并");
+	}
 }
